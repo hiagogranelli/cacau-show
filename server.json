@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "TRUFA AVELÃ 30G",
+      "image": "https://corebiz.vteximg.com.br/arquivos/ids/156669-1000-715/_0056_TRUFA-LACREME-BRANCA.png",
+      "price": 1.99
+    },
+    {
+      "id": "12",
+      "title": "BOMBOM GLAMOUR 200G",
+      "image": "https://corebiz.vteximg.com.br/arquivos/ids/156671-1000-715/fotos_0135_truffon-pacoca-30g.png",
+      "price": 1.99
+    },
+    {
+      "id": "14",
+      "title": "TRUFA BEAUTY IN AO LEITE 30G",
+      "image": "https://corebiz.vteximg.com.br/arquivos/ids/156676-1000-715/trufa-mezzo.png",
+      "price": 2.5
+    },
+    {
+      "id": "15",
+      "title": "PRECIOSIDADES DIET 400G",
+      "image": "https://corebiz.vteximg.com.br/arquivos/ids/156670-1000-715/_0057_TRUFA-LACREME-AO-LEITE.png",
+      "price": 2.1
+    },
+    {
+      "id": "19",
+      "title": "BOMBOM GLAMOUR 200G",
+      "image": "https://corebiz.vteximg.com.br/arquivos/ids/156671-1000-715/fotos_0135_truffon-pacoca-30g.png",
+      "price": 3.4
+    }
+  ]
+}
