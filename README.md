@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para rodar o serviço, é necessário instalar o json-server:
+
+yarn global add json-server
+
+Após isso, rodar o comando: json-server server.json -p 3333
+
+Logo em seguida rodar o script yarn start
 
 ## Available Scripts
 
